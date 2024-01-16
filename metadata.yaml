@@ -1,5 +1,8 @@
 _repo: Demonologia-b-or-natural-knowledge-revealed-being-an-expose-of-ancient-and-modern-superstitio__72476
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72476-h/images/cover.jpg
 creator:
   author:
     agent_name: Forsyth, J. S.
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '56695'
     url: http://www.gutenberg.org/2009/agents/56695
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72476#Demonologia-b-or-natural-knowledge-revealed-being-an-expose-of-ancient-and-modern-superstitio_
 gutenberg_issued: '2023-12-22'
 gutenberg_type: Text
 identifiers:
